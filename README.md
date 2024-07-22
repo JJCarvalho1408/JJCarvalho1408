@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JJCarvalho1408
 - 👀 I'm interested in centralizing my evolution as a Dev and exposing my capabilities.
-- 🌱 I'm currently learning React and brushing up on HTML, CSS, JS
+- 🌱 I'm currently learning React, DesingPattern, Java. Brushing up on HTML, CSS, JS
 - 💞️ I'm looking to collaborate on backend and frontend projects
 - 📫 How to reach me https://www.linkedin.com/in/jj-carvalho/
 
